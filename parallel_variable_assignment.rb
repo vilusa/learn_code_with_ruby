@@ -24,6 +24,7 @@ p a, b
 # a = 2
 # b = 1
 
+# This code parallel assignment for under code blog
 a, b = b, a
 
 p a, b
